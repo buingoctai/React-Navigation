@@ -1,0 +1,3 @@
+rootProject.name = 'NgocTai'
+
+include ':app'
